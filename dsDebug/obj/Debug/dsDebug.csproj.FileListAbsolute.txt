@@ -1,0 +1,7 @@
+C:\Users\Deyan Nenov\Source\Repos\forgebasic2\dsDebug\dsDebug\bin\Debug\dsDebug.dll
+C:\Users\Deyan Nenov\Source\Repos\forgebasic2\dsDebug\dsDebug\bin\Debug\dsDebug.pdb
+C:\Users\Deyan Nenov\Source\Repos\forgebasic2\dsDebug\dsDebug\obj\Debug\AdnRme.ProgressForm.resources
+C:\Users\Deyan Nenov\Source\Repos\forgebasic2\dsDebug\dsDebug\obj\Debug\dsDebug.csproj.GenerateResource.Cache
+C:\Users\Deyan Nenov\Source\Repos\forgebasic2\dsDebug\dsDebug\obj\Debug\dsDebug.dll
+C:\Users\Deyan Nenov\Source\Repos\forgebasic2\dsDebug\dsDebug\obj\Debug\dsDebug.pdb
+C:\Users\Deyan Nenov\Source\Repos\forgebasic2\dsDebug\dsDebug\obj\Debug\dsDebug.csprojResolveAssemblyReference.cache
